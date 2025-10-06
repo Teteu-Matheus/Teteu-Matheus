@@ -1,4 +1,3 @@
-## Hi there 👋
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=%E3%83%BE(%E2%80%A2%CF%89%E2%80%A2%60)o&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>

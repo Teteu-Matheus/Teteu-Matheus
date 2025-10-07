@@ -35,10 +35,6 @@
 </div>
 
 ###
-
-<img align="right" height="157" src="file:///C:/Users/matheus_santos179/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/ForHonorVikingIntroGIF.gif"  />
-
-###
 <!--
 **Teteu-Matheus/Teteu-Matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
